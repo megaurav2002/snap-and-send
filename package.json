@@ -1,0 +1,26 @@
+{
+  "name": "snap-and-send",
+  "version": "0.0.1",
+  "description": "Snap and Send",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megaurav2002/snap-and-send.git"
+  },
+  "keywords": [
+    "Snap-and-save"
+  ],
+  "author": "Gaurav Talwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/megaurav2002/snap-and-send/issues"
+  },
+  "homepage": "https://github.com/megaurav2002/snap-and-send#readme",
+  "devDependencies": {
+    "webpack": "^3.4.1"
+  }
+}
